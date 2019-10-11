@@ -36,16 +36,19 @@
 ## 嘉宾介绍
 
 Alexandros
+
 Tubi
 Senior Scala Engineer
 Alexandros has been building out the next generation of personalization services at Tubi for the past year. Before that he spent three years at Apple building out the publishing pipeline for Apple.com. Outside of Scala, he can usually be found at the playground with his children
 
 
 Neo 
+
 毕业于滑铁卢大学计算机科学专业，在 Morgen Stanly、 Standard Chartered Bank 工作多年，积累了丰富的 Scala 商业实践经验，是一位技术广度与深度兼备的 Scala 研究专家。
 
 
 艾彦波
+
 Growing IO资深架构师，7年以上工程经验，5年互联网工作经验。擅长底层技术架构，预研，推广。对高并发，高性能，大规模数据处理有经验和心得。曾负责大规模数据处理(ETL)的架构和实现。喜欢关注底层技术和互联网应用，在Github贡献多个开源框架。 
 
 
