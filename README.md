@@ -42,7 +42,7 @@ Senior Scala Engineer
 Alexandros has been building out the next generation of personalization services at Tubi for the past year. Before that he spent three years at Apple building out the publishing pipeline for Apple.com. Outside of Scala, he can usually be found at the playground with his children
 
 
-**Neo **
+**Neo**
 
 毕业于滑铁卢大学计算机科学专业，在 Morgen Stanly、 Standard Chartered Bank 工作多年，积累了丰富的 Scala 商业实践经验，是一位技术广度与深度兼备的 Scala 研究专家。
 
@@ -53,7 +53,13 @@ Growing IO资深架构师，7年以上工程经验，5年互联网工作经验�
 
 
 ## 报名
+
 欢迎参与到这次Scala Meetup活动中来，请先使用**活动行**Web版本搜索北京Scala Meetup，点击进入活动页面通过报名按钮进行报名，然后可以添加页面下方二维码以便后续联系，我们会根据报名情况发出电子邀请函。
 
 关于线上同学的在线参与，鉴于Zoom目前国内使用有些问题，我们还在寻求解决方案，会尽快更新。
+
+# 关于Tubi
+
+Tubi 总部位于美国西海岸的旧金山，在纽约、芝加哥、洛杉矶、北京等地均有分布。目前全球有 180 多名员工，其中70多名工程师，并且团队在持续壮大中。我们是一家发展稳健、收入充沛且快速增长的 C 轮公司。 在免费视频领域，我们是北美市场最大的玩家，并建立了相当稳固的商业地位。区别于像 Netflix、Hulu 等付费的流媒体服务，我们为用户提供免费的高质量视频内容，通过广告获取收益，实现用户、内容提供商和广告主三方共赢。同时，我们的 App 支持近 10 种平台，在 FireTV / PS4 / Samsung 等设备的北美应用市场中都能找到 Tubi App 的身影，并且拥有良好的用户口碑。 Tubi 北京及旧金山团队持续招募志同道合的工程师中，岗位覆盖 高级 Elixir 后端开发工程师、 高级 Scala 后端开发工程师、高级机器学习工程师、高级数据开发工程师及高级前端开发工程师，更多职位详情可关注“比图科技”公众号。
+
 
